@@ -1,4 +1,4 @@
-package exceptionExample;
+package exceptionExample.TryCatch;
 
 public class example2 {
 
